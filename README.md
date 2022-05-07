@@ -7,6 +7,6 @@
 About me:<br>
 I am Rob or RxM or Excessive Force on Discord.
 Former Army Cyber EW Specialist
-I am a self taught python/C++ developer, with 3 years practicing and teaching python.
+I am a self taught python/Rust developer, with 3 years practicing and teaching python.
 </p>
 
